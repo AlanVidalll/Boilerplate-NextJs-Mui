@@ -1,0 +1,11 @@
+import { render } from '@testing-library/react'
+
+import {{pascalCase name}} from './index'
+
+describe('<{{pascalCase name}} />', () => {
+  it('shold render the heading', () => {
+    const { container } = render(<{{pascalCase name}} />)
+
+    expect(container.firstChild).toMatchSnapshot()
+  })
+})
