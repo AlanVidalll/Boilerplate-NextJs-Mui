@@ -1,4 +1,6 @@
 import styled from 'styled-components'
+import { styled as Styled } from '@material-ui/styles'
+import DialogTitle from '@mui/material/DialogTitle'
 
 export const Wrapper = styled.main`
   background-color: #06092b;
@@ -12,14 +14,15 @@ export const Wrapper = styled.main`
   align-items: center;
   justify-content: center;
 `
+
 export const Logo = styled.img`
   width: 25rem;
   margin-bottom: 2rem;
 `
 
-export const Title = styled.h1`
-  font-size: 2.5rem;
-`
+export const Title = Styled(DialogTitle)({
+  fontSize: '2.5rem'
+})
 
 export const Description = styled.h2`
   font-size: 2rem;

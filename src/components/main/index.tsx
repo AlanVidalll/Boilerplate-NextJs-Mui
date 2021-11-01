@@ -5,7 +5,6 @@ const Main = ({
   description = 'Typescript, ReactJs, NextJS e Styled Components'
 }) => (
   <S.Wrapper>
-    <h1>teste</h1>
     <S.Logo src="/img/logo.svg" alt="Imagem de um átomo e React Avançado" />
     <S.Title>{title}</S.Title>
     <S.Description>{description}</S.Description>
