@@ -6,7 +6,7 @@ Boilerplate configurado com Next.Js, Storybook, Jest, Typescript e  Styled-Compo
 
 ## Next.JS
 #### O que é Next.JS?
-[Next.js](https://dogs-rede-social.herokuapp.com/)  é um framework React com foco em produção e eficiência criado e mantido pela equipe da Vercel, o Nextjs busca reunir diversas funcionalidades como renderização hibrida e estática de conteúdo, suporte a TypeScript, pre-fetching, sistema de rotas, pacotes de funcionalidades e diversos plugins e exemplos para acelerar seu desenvolvimento fornecendo uma estrutura completa para você iniciar seu projeto.
+[Next.js](https://nextjs.org/docs/getting-started)  é um framework React com foco em produção e eficiência criado e mantido pela equipe da Vercel, o Nextjs busca reunir diversas funcionalidades como renderização hibrida e estática de conteúdo, suporte a TypeScript, pre-fetching, sistema de rotas, pacotes de funcionalidades e diversos plugins e exemplos para acelerar seu desenvolvimento fornecendo uma estrutura completa para você iniciar seu projeto.
 
 #### Principais funcionalidades do Next.js
 * Hibrido SSG e SSR: Renderize as páginas durante a build (Static Site Generation) ou em cada request (Server-side Rendering) no mesmo projeto.
@@ -136,9 +136,9 @@ $ git clone <URL copiada>
  ```
 $ yarn ou npm install
 ```
-* Você pode iniciai o projeto com esse comando que ele irá clonar e instalar as dependências automaticamente ```yarn create next-app -e https://github.com/AlanVidalll/Boilerplate-React-NextJS <Nome projeto>```.
+* Você pode iniciar o projeto com esse comando que ele irá clonar e instalar as dependências automaticamente ```yarn create next-app -e https://github.com/AlanVidalll/Boilerplate-React-NextJS <Nome projeto>```.
 ```
-$ yarn create next-app -e https://github.com/AlanVidalll/Boilerplate-React-NextJS <Nome projeto>
+$ yarn create next-app -e https://github.com/AlanVidalll/Boilerplate-NextJs-Mui <Nome projeto>
 ```
 
 
