@@ -119,6 +119,12 @@ Entre outras facilidades!
 
 ###### Documentação: [Styled-components](https://styled-components.com/docs) clique no link e obtenha mais detalhes.
 
+## Material UI
+#### O que é Material UI?
+
+Você conhece React.js? Se sim , então você certamente conhece o Material-UI - uma das populares bibliotecas de componentes React. Devo dizer que Material-UI é a melhor biblioteca de uso geral do mercado. Ele segue as diretrizes, componentes e ferramentas de material design do Google para tornar os aplicativos da web mais rápidos.
+
+###### Documentação: [Material-UI'](https://mui.com/getting-started/usage/) clique no link e obtenha mais detalhes.
 
 ## Instalando o Projeto
 
