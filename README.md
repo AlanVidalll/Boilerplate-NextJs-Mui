@@ -27,7 +27,7 @@ Boilerplate configurado com Next.Js, Storybook, Jest, Typescript e  Styled-Compo
 
 ## Storybook
 #### O que é Storybook?
-Storybook é uma ferramenta que tem como objetivo servir de ambiente isolado para você criar seus componentes. Ou seja, você não precisa desenvolver seu componente diretamente no seu sistema.
+[Storybook](https://storybook.js.org/docs/react/get-started/introduction) é uma ferramenta que tem como objetivo servir de ambiente isolado para você criar seus componentes. Ou seja, você não precisa desenvolver seu componente diretamente no seu sistema.
 
 Ele é utilizado por grandes empresas como: GitHub, Dropbox, airbnb, Mozilla, JetBrains, etc.
 O Storybook funciona com várias bibliotecas e frameworks, como: React, Angular, Vue, Ember, etc.
@@ -44,7 +44,7 @@ Imagina que temos uns 30 componentes em nossa aplicação e temos que procurar e
 ## Jest
 #### O que é Jest?
 
-Jest é um framework de teste unitário de código aberto em JavaScript criado pelo Facebook a partir do framework Jasmine. Jest é uma das ferramentas de teste unitário mais difundidas dentro da comunidade de JavaScript.
+[Jest](https://jestjs.io/pt-BR/docs/getting-started) é um framework de teste unitário de código aberto em JavaScript criado pelo Facebook a partir do framework Jasmine. Jest é uma das ferramentas de teste unitário mais difundidas dentro da comunidade de JavaScript.
 
 
 #### Visão geral
@@ -55,7 +55,7 @@ O Jest foi inicialmente criado para testar o framework React, também criado pel
 
 ## Typescript
 #### O que é Typescript?
-Typescript é um conjunto de ferramentas que adiciona melhorias aos projetos desenvolvidos e escritos em código JavaScript.
+[Typescript](https://www.typescriptlang.org/docs/) é um conjunto de ferramentas que adiciona melhorias aos projetos desenvolvidos e escritos em código JavaScript.
 
 Ele pode ser compreendido como um superconjunto de soluções e recursos que não são nativos da linguagem, mas que podem tornar o trabalho de programação muito mais eficiente e dinâmico.
 
@@ -103,7 +103,7 @@ Em um curso ou mesmo nas comunidades e fóruns que tratam de Typescript é poss�
 ## Styled-Components
 #### O que é Styled-Components?
 
-Uma das coisas que muito tem se falado, enquanto desenvolvendo aplicações com React, é sobre styled components
+Uma das coisas que muito tem se falado, enquanto desenvolvendo aplicações com React, é sobre [Styled-Components](https://styled-components.com/docs)
 Styled components são componentes onde criamos o CSS no próprio arquivo do componente, o arquivo JS.
 Com isso conseguimos obter algumas vantagens em diversos quesitos, tais como:
 
@@ -122,7 +122,7 @@ Entre outras facilidades!
 ## Material UI
 #### O que é Material UI?
 
-Você conhece React.js? Se sim , então você certamente conhece o Material-UI - uma das populares bibliotecas de componentes React. Devo dizer que Material-UI é a melhor biblioteca de uso geral do mercado. Ele segue as diretrizes, componentes e ferramentas de material design do Google para tornar os aplicativos da web mais rápidos.
+Você conhece [React.js](https://pt-br.reactjs.org/docs/getting-started.html)? Se sim , então você certamente conhece o Material-UI - uma das populares bibliotecas de componentes React. Devo dizer que Material-UI é a melhor biblioteca de uso geral do mercado. Ele segue as diretrizes, componentes e ferramentas de material design do Google para tornar os aplicativos da web mais rápidos.
 
 ###### Documentação: [Material-UI'](https://mui.com/getting-started/usage/) clique no link e obtenha mais detalhes.
 
