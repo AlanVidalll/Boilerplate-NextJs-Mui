@@ -16,13 +16,13 @@ module.exports = function (plop) {
       },
       {
         type: 'add',
-        path: '../src/components/{{pascalCase name}}/index.stories.tsx',
-        templateFile: 'templates/index.stories.tsx.hbs'
+        path: '../src/components/{{pascalCase name}}/stories.tsx',
+        templateFile: 'templates/stories.tsx.hbs'
       },
       {
         type: 'add',
-        path: '../src/components/{{pascalCase name}}/index.test.tsx',
-        templateFile: 'templates/index.test.tsx.hbs'
+        path: '../src/components/{{pascalCase name}}/test.tsx',
+        templateFile: 'templates/test.tsx.hbs'
       },
       {
         type: 'add',
