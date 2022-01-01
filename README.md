@@ -138,7 +138,7 @@ $ git clone <URL copiada>
 ```
 
 * Pressione Enter para criar seu clone local.
-* Digite yarn ou npm install
+* Digite yarn ou npm install para instalar as depedências do projeto.
  ```
 $ yarn ou npm install
 ```
